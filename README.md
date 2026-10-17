@@ -62,8 +62,8 @@
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/naraharimanvikar7878-svg/GADGETIQ.git
-cd GADGETIQ
+git clone https://github.com/naikganu1025/GadgetIq.git
+cd GadgetIq
 \`\`\`
 
 ### 2. Install dependencies
